@@ -8,7 +8,7 @@ import TripInfoPresenter from './presenter/trip-info-presenter.js';
 import PointsApiService from './points-api-service.js';
 
 const AUTHORIZATION = 'Basic ssdfgodpfgoipE';
-const END_POINT = 'https://20.ecmascript.pages.academy/big-trip';
+const END_POINT = 'https://20.objects.htmlacademy.pro/big-trip';
 // https://20.objects.htmlacademy.pro/big-trip
 
 const headerElement = document.querySelector('.page-header');
